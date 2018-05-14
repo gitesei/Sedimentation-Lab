@@ -20,7 +20,7 @@ If you have little experience with Python or shell programming, the following tw
 1. Install [miniconda3](https://conda.io/miniconda.html).
 2. [Download](https://github.com/mlund/particletracking/archive/master.zip) the lab material
    (this github repository) and unzip.
-3. Install and activate the `particletracking` environment described by the file [`environment.yml`](/environment.yml)
+3. Install and activate the `sedimlab` environment described by the file [`environment.yml`](/environment.yml)
    by running the following in a terminal:
 
    ```bash
@@ -34,7 +34,7 @@ Instructions for Windows:
 3. Open the `anaconda prompt` from the start menu.
 4. Navigate to the folder where the course material has been unzipped (_e.g._ using `cd` to change directory
    and `dir` to list files in a folder).
-5. Install and activate the `particletracking` environment described by the file [`environment.yml`](/environment.yml)
+5. Install and activate the `sedimlab` environment described by the file [`environment.yml`](/environment.yml)
    by running the following in the `anaconda prompt`:
 
    ```bash
