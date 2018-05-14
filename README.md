@@ -4,7 +4,7 @@
 
 This lab is based on a [Jupyter Notebooks](http://jupyter.org):
 - `sedim.ipynb`
-Author: Martin Trulsson
+Author: Martin Trulsson<br>
 E-mail: martin.trulsson@teokem.lu.se 
 
 ## Prerequisites
