@@ -2,7 +2,7 @@
 
 # Sedimentation-Lab
 
-This lab is based on a [Jupyter Notebooks](http://jupyter.org):
+This lab is based on a [Jupyter Notebook](http://jupyter.org):
 - `sedim.ipynb`
 
 Author: Martin Trulsson<br>
@@ -46,7 +46,7 @@ Instructions for Windows:
    ```
 [Further Information](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
 
-## How to launch the notebooks
+## How to launch the notebook
 
 ~~~ bash
 jupyter-notebook sedim.ipynb
