@@ -32,7 +32,7 @@ If you have little experience with Python or shell programming, the following tw
    ```
 Instructions for Windows: 
 1. Install [miniconda3](https://conda.io/miniconda.html).
-2. [Download](https://github.com/mlund/particletracking/archive/master.zip) the lab material (this github repository)
+2. [Download](https://github.com/gitesei/Sedimentation-Lab/archive/master.zip) the lab material (this github repository)
    and unzip.
 3. Open the `anaconda prompt` from the start menu.
 4. Navigate to the folder where the course material has been unzipped (_e.g._ using `cd` to change directory
